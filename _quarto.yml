@@ -5,7 +5,9 @@ project:
 
 website:
   title: "Tiernan Martin"
+  description: "The personal website of Tiernan Martin"
   site-url: https://tiernanmartin.com
+  favicon: profile.png
   navbar:
     right:
       - text: About
@@ -15,7 +17,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: united
     css: styles.css
     toc: true
 

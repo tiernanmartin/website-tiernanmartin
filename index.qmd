@@ -3,6 +3,7 @@ title: "Tiernan Martin"
 about:
   template: trestles
   image: profile.png
+  image-shape: round
   links: 
     - icon: github
       text: Github
@@ -16,7 +17,7 @@ about:
 ---
 
 ::: {.column-page}
-Land use planning researcher and project manager
+Land use planning researcher and program director
 
 ## Experience
 
