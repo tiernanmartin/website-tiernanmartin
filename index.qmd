@@ -10,7 +10,8 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/tiernanmartin/
-    - text: CV
+    - icon: file-pdf
+      text: CV
       url: "cv.pdf"
 ---
 
