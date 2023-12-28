@@ -1,0 +1,37 @@
+---
+title: "Tiernan Martin"
+about:
+  template: trestles
+  image: profile.png
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/tiernanmartin
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/tiernanmartin/
+---
+
+Land use planning researcher and project manager \| [CV](https://www.linkedin.com/in/tiernanmartin/)
+
+## Experience
+
+**Futurewise** \| Seattle, WA
+
+::: indented-text
+Director of Research \| August 2023 - present<br>
+Program Manager | January 2018 - August 2023<br>
+Data and Policy Analyst \| December 2015 - January 2018
+:::
+
+**Seattle Chinatown-International District Preservation & Development Authority** \| Seattle, WA 
+
+::: indented-text
+Research Assistant \| February 2015 - October 2015
+:::
+
+## Education
+
+**University of Washington** \| Seattle, WA<br>Completed 80 credits toward a Master of Urban Design and Planning degree \| 2015
+
+**McGill University** \| Montreal, QC<br>Bachelor of Arts \| 2008
