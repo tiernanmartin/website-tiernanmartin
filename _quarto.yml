@@ -1,12 +1,17 @@
 project:
   type: website
+  resources:
+    - cv.pdf
 
 website:
   title: "Tiernan Martin"
+  site-url: https://tiernanmartin.com
   navbar:
     right:
-      - href: index.qmd
-        text: About
+      - text: About
+        href: index.qmd
+  page-footer:
+    left: "© Copyright 2024 Tiernan Martin. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
 
 format:
   html:

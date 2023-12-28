@@ -10,8 +10,11 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/tiernanmartin/
+    - text: CV
+      url: "cv.pdf"
 ---
 
+::: {.column-page}
 Land use planning researcher and project manager \| [CV](https://www.linkedin.com/in/tiernanmartin/)
 
 ## Experience
@@ -34,4 +37,6 @@ Research Assistant \| February 2015 - October 2015
 
 **University of Washington** \| Seattle, WA<br>Completed 80 credits toward a Master of Urban Design and Planning degree \| 2015
 
-**McGill University** \| Montreal, QC<br>Bachelor of Arts \| 2008
+**McGill University** \| Montreal, QC<br>B.A. in Political Science \| 2008
+
+:::
