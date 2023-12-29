@@ -1,11 +1,12 @@
 ---
-title: "Talks, Panels, & Presentations"
+title: "Talks"
 listing:
-  type: grid
   contents: talks
-  sort: "date"
-  sort-ui: false
-  filter-ui: false
+  fields: [image, title, date]
+  type: grid
+  sort: "date desc"
+  image-height: 100%
+page-layout: full
 ---
 
 ::: column-page

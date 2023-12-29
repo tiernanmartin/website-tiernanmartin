@@ -1,7 +1,9 @@
 [
   {
     "listing": "/talks.html",
-    "items": []
+    "items": [
+      "/talks/2023-09-14_sng-building-a-walkable-city/2023-09-14_sng-building-a-walkable-city.html"
+    ]
   },
   {
     "listing": "/projects.html",
