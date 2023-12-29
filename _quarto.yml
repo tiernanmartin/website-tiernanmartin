@@ -4,7 +4,7 @@ project:
     - cv.pdf
 
 website:
-  title: "Tiernan Martin"
+  title: "TIERNAN"
   description: "The personal website of Tiernan Martin"
   site-url: https://tiernanmartin.com
   favicon: profile.png
