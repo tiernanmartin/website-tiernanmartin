@@ -1,0 +1,13 @@
+---
+title: "Projects"
+listing:
+  type: grid
+  contents: projects
+  sort: "date"
+  sort-ui: false
+  filter-ui: false
+---
+
+::: column-page
+
+:::

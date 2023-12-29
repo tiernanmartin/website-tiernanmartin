@@ -12,6 +12,10 @@ website:
     right:
       - text: About
         href: index.qmd
+      - text: Talks
+        href: talks.qmd
+      - text: Projects
+        href: projects.qmd
   page-footer:
     left: "© Copyright 2024 Tiernan Martin. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
 

@@ -1,0 +1,12 @@
+---
+title: "Talks, Panels, & Presentations"
+listing:
+  type: grid
+  contents: talks
+  sort: "date"
+  sort-ui: false
+  filter-ui: false
+---
+
+::: column-page
+:::
