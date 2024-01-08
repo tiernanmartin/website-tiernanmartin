@@ -6,11 +6,11 @@ date: 2023-09-14
 image: event-poster.jpg
 ---
 
-|                     |                                                                                                                                                                                |
-|-----------------|-------------------------------------------------------|
-| **Role**            | Panelist                                                                                                                                                                       |
-| **Date & Location** | September 14, 2023 \| 6pm \| Seattle, WA                                                                                                                                       |
-| **Event**           | [The Shaping Seattle Series: Building A Walkable City](https://www.seattlegreenways.org/get-involved/calendar/shapingseattle/shaping-seattle-series-building-a-walkable-city/) |
-| **Recording**       | [YouTube](https://www.youtube.com/live/_hD3gzgA_0s?si=QkdVNwXVaklmZ9u9 "Building a Walkable City - Live Panel")                                                                |
+|                                                                                                                                                                                                       |
+|------------------------------------------|
+| **Role:** Panelist                                                                                                                                                                                    |
+| **Date & Location:** September 14, 2023 \| 6pm \| Seattle, WA                                                                                                                                         |
+| **Event:** [Shaping Seattle Series: Building A Walkable City](https://www.seattlegreenways.org/get-involved/calendar/shapingseattle/shaping-seattle-series-building-a-walkable-city/ "Event webpage") |
+| **Recording:** [YouTube](https://www.youtube.com/live/_hD3gzgA_0s?si=QkdVNwXVaklmZ9u9 "Building a Walkable City - live panel recording")                                                              |
 
 [![](event-poster.jpg){fig-alt="An event poster with an illustration of a streetscape with people walking, biking, busing, and using a wheelchair; also shows headshots of the moderator and panelists."}](https://www.youtube.com/live/_hD3gzgA_0s?si=tV514Ran95ULxkyr)
