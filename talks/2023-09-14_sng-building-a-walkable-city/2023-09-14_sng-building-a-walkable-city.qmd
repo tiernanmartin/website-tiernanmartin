@@ -7,7 +7,8 @@ image: event-poster.jpg
 ---
 
 |                     |                                                                                                                                                                                |
-|--------------|----------------------------------------------------------|
+|-----------------|-------------------------------------------------------|
+| **Role**            | Panelist                                                                                                                                                                       |
 | **Date & Location** | September 14, 2023 \| 6pm \| Seattle, WA                                                                                                                                       |
 | **Event**           | [The Shaping Seattle Series: Building A Walkable City](https://www.seattlegreenways.org/get-involved/calendar/shapingseattle/shaping-seattle-series-building-a-walkable-city/) |
 | **Recording**       | [YouTube](https://www.youtube.com/live/_hD3gzgA_0s?si=QkdVNwXVaklmZ9u9 "Building a Walkable City - Live Panel")                                                                |
