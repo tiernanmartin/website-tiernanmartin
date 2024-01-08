@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tiernanmartin.com/index.html</loc>
-    <lastmod>2023-12-29T17:55:02.314Z</lastmod>
-  </url>
-  <url>
     <loc>https://tiernanmartin.com/talks.html</loc>
-    <lastmod>2023-12-29T18:00:07.373Z</lastmod>
+    <lastmod>2024-01-08T19:03:42.958Z</lastmod>
   </url>
   <url>
     <loc>https://tiernanmartin.com/projects.html</loc>
-    <lastmod>2023-12-29T17:59:57.634Z</lastmod>
+    <lastmod>2024-01-08T19:03:41.761Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tiernanmartin.com/index.html</loc>
+    <lastmod>2024-01-08T19:03:41.212Z</lastmod>
   </url>
   <url>
     <loc>https://tiernanmartin.com/talks/2023-09-14_sng-building-a-walkable-city/2023-09-14_sng-building-a-walkable-city.html</loc>
-    <lastmod>2023-12-29T18:00:10.983Z</lastmod>
+    <lastmod>2024-01-08T19:03:42.281Z</lastmod>
   </url>
 </urlset>
