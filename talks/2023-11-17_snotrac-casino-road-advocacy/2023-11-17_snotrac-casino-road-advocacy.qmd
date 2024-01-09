@@ -3,7 +3,7 @@ title: "Sound Transit Advocacy Report: Casino Road Station"
 subtitle: "A summary of Connect Casino Road's Sound Transit light rail station advocacy"
 description: "This presentation summarized the advocacy work done by Futurewise and Connect Casino Road during Spring and Fall of 2023."
 date: 2023-11-17
-image: title-slide.jpg
+image: title-slide-square.jpg
 ---
 
 |                                                                                                                |
