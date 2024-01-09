@@ -6,10 +6,20 @@ date: 2023-11-17
 image: title-slide-square.jpg
 ---
 
-|                                                                                                                |
+|                                                                                                                    |
 |------------------------------------------------------------------------|
-| **Role:** Co-presenter                                                                                         |
-| **Date & Location:** November 11, 2023 \| 2pm \| Virtual                                                       |
-| **Slides:** [2023-11-17 Presentation to Snotrac Partners.pdf](2023-11-17 Presentation to Snotrac Partners.pdf) |
+| **Role:** Co-presenter                                                                                             |
+| **Date & Location:** November 11, 2023 \| 2pm \| Virtual                                                           |
+| **Slides:** [pdf](2023-11-17 Presentation to Snotrac Partners.pdf "Presentation to Snotrac Partners (2023-11-17)") |
 
 ![](title-slide.jpg)
+
+## Connect Casino Road Video
+
+This presentation included a short video that showcased several Casino Road community members and their perspectives on the changes that the light rail station might bring. This video was produced by [Connect Casino Road](https://www.connectcasinoroad.org/), with policy expertise and strategic guidance provided by Tiernan Martin from [Futurewise](https://futurewise.org/).
+
+::: {#casino-road-video}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/We1gILwDpnQ?si=o4O7kxmj2bRAbTMR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+:::
