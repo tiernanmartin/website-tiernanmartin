@@ -12,7 +12,7 @@ image: title-slide-square.jpg
 | **Date & Location:** November 11, 2023 \| 2pm \| Virtual                                                           |
 | **Slides:** [pdf](2023-11-17 Presentation to Snotrac Partners.pdf "Presentation to Snotrac Partners (2023-11-17)") |
 
-![](title-slide.jpg)
+[![Presentation to Snotrac Partners (2023-11-17)](title-slide.jpg)](2023-11-17 Presentation to Snotrac Partners.pdf)
 
 ## Connect Casino Road Video
 
