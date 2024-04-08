@@ -6,5 +6,4 @@ date: 2024-03-18
 image: mercer-island-aerial.jpg
 ---
 
-
-[mercer-island-aerial.jpg.jpg){fig-alt="An aerial photograph of Mercer Island that shows the light rail station and the surrounding residential land use."}](https://tiernanmartin.github.io/2024-transit-oriented-development-bill/)
+[![Unlocking Smart Growth: The Effects of a Proposed Transit-Oriented Development Law on the Puget Sound Region](mercer-island-aerial.jpg){fig-alt="An aerial photograph of Mercer Island that shows the light rail station and the surrounding residential land use."}](https://tiernanmartin.github.io/2024-transit-oriented-development-bill/)
