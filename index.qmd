@@ -20,7 +20,7 @@ sidebar: false
 ::: column-page
 ## Bio
 
-Tiernan Martin leads the land use planning research program at [Futurewise](https://futurewise.org). His work focuses on the advancement of healthy, affordable, vibrant urban neighborhoods in the Puget Sound region. Tiernan's approach combines expertise in geospatial data science, understanding of regulatory frameworks and processes, and experience collaborating with community leaders and local organization staff. He engages in research and advocacy with neighborhood groups, community development organizations, advocacy groups, academic researchers, and government agencies.
+Tiernan Martin leads the land use planning research program at [Futurewise](https://futurewise.org). His work focuses on the advancement of healthy, affordable, vibrant urban neighborhoods in the Puget Sound region. Tiernan's approach combines expertise in geospatial data science, understanding of regulatory frameworks and processes, and experience collaborating with community leaders and local organization staff. He is a member of the Puget Sound Regional Council [Regional Transit-Oriented Development Committee](https://www.psrc.org/committee/regional-transit-oriented-development-committee-rtod) and is Vice President of the Seattle Chinatown-ID Preservation and Development Authority [Board of Directors](https://scidpda.org/who-we-are/).
 
 Tiernan lives with his family in Seattle, Washington, where he enjoys visiting the aquarium and taking ferry rides around Puget Sound.
 
