@@ -1,7 +1,7 @@
 project:
   type: website
   resources:
-    - cv.pdf
+    - Tiernan-Martin-CV-2024-April.pdf
 
 website:
   title: "TIERNAN"
