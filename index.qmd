@@ -20,23 +20,15 @@ sidebar: false
 ::: column-page
 ## Bio
 
-Tiernan Martin leads the land use planning research program at [Futurewise](https://futurewise.org). His work focuses on the advancement of healthy, affordable, vibrant urban neighborhoods in the Puget Sound region. Tiernan's approach combines expertise in geospatial data science, understanding of regulatory frameworks and processes, and experience collaborating with community leaders and local organization staff. He is a member of the Puget Sound Regional Council [Regional Transit-Oriented Development Committee](https://www.psrc.org/committee/regional-transit-oriented-development-committee-rtod) and is Vice President of the Seattle Chinatown-ID Preservation and Development Authority [Board of Directors](https://scidpda.org/who-we-are/).
+Tiernan Martin leads the land use planning research program at [Futurewise](https://futurewise.org). His work focuses on the advancement of healthy, affordable, vibrant urban neighborhoods in the Puget Sound region. Tiernan's approach combines expertise in geospatial data science, understanding of regulatory frameworks and processes, and experience collaborating with community leaders and local organization staff. He is a member of the Puget Sound Regional Council [Regional Transit-Oriented Development Committee](https://www.psrc.org/committee/regional-transit-oriented-development-committee-rtod) and is Vice President of the Seattle Chinatown-ID Preservation and Development Authority (SCIDpda) [Board of Directors](https://scidpda.org/who-we-are/).
 
 Tiernan lives with his family in Seattle, Washington, where he enjoys visiting the aquarium and taking ferry rides around Puget Sound.
 
 ## Experience
 
-**Futurewise** \| Seattle, WA
+**Director of Research** and other roles \| [Futurewise](https://futurewise.org/) \| Seattle, WA \| 2015–Present
 
-::: indented-text
-Director of Research \| August 2023–present<br> Program Manager \| January 2018–August 2023<br> Data and Policy Analyst \| December 2015–January 2018
-:::
-
-**Seattle Chinatown-International District Preservation & Development Authority** \| Seattle, WA
-
-::: indented-text
-Research Assistant \| February 2015–October 2015
-:::
+**Research Assistant** \| [SCIDpda](https://scidpda.org/) \| Seattle, WA \| 2015
 
 ## Education
 
