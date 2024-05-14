@@ -13,7 +13,7 @@ about:
       href: https://www.linkedin.com/in/tiernanmartin/
     - icon: file-pdf
       text: CV
-      url: "cv.pdf"
+      url: "Tiernan-Martin-CV-2024-April.pdf"
 sidebar: false
 ---
 
